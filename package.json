@@ -1,0 +1,24 @@
+{
+  "name": "express_crash",
+  "version": "1.0.0",
+  "description": "express crash course record",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wentungwen/express_crash.git"
+  },
+  "author": "wentung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wentungwen/express_crash/issues"
+  },
+  "homepage": "https://github.com/wentungwen/express_crash#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
